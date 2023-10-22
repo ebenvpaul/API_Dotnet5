@@ -12,7 +12,7 @@ namespace API_Dotnet5.Controllers
     {
          private static readonly string[] Cars = new[]
     {
-        "Maruti", "BMW", "Audi", "Benz","Lambo","Volswagon",
+        "Maruti", "BMW", "Audi", "Benz","Lambo","Volswagon","Tata",
     };
 
  [HttpGet(Name = "GetCars")]
