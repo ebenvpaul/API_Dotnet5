@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gXLqIoWJSjbXljvLzh/yKPg58fZEvYH2TJ9wOFqPDtY=",
+  "Source": "API_Dotnet5",
+  "BasePath": "_content/API_Dotnet5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
