@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "N81y1u53VkmJ9DT1AJ/B8yugX9apT3mL893IrTTsO3QwBAcGuan2lQSuX3k0YbpsTps/LzTvDq9PPFNiNwlzGg==",
+  "success": true,
+  "projectFilePath": "/Users/ebenvarghesepaul/Projects/Dotnet_Projects/API_Dotnet5/API_Dotnet5.csproj",
+  "expectedPackageFiles": [
+    "/Users/ebenvarghesepaul/.nuget/packages/microsoft.aspnetcore.openapi/7.0.7/microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "/Users/ebenvarghesepaul/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/ebenvarghesepaul/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/ebenvarghesepaul/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/ebenvarghesepaul/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/ebenvarghesepaul/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/ebenvarghesepaul/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
